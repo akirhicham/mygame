@@ -1,0 +1,14 @@
+[
+      {"id": 0, "first_name": "test1", 
+        "last_name": "AAA", "classe_id": 1},
+        {"id": 1, "first_name": "test2", 
+        "last_name": "AAB", "classe_id": 1},
+        {"id": 2, "first_name": "test3", 
+        "last_name": "BBC", "classe_id": 1},
+        {"id": 3, "first_name": "test1", 
+        "last_name": "DDD", "classe_id": 2},
+        {"id": 4, "first_name": "test2", 
+        "last_name": "EEE", "classe_id": 2},
+        {"id": 5, "first_name": "test3", 
+        "last_name": "EEE"}
+ ]
