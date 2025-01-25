@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import './index.css';
-
+//by Hicham AKIR
 const generateCards = (num) => {
   const cards = [];
   for (let i = 1; i <= num / 2; i++) {
